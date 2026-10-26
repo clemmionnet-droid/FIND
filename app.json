@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "FIND.",
+    "slug": "find",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "find",
+    "userInterfaceStyle": "light",
+    "plugins": [
+      "expo-router"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.find.app"
+    },
+    "android": {
+      "package": "com.find.app"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
