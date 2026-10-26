@@ -14,12 +14,3 @@
       "bundleIdentifier": "com.find.app"
     },
     "android": {
-      "package": "com.find.app"
-    },
-  "web": {
-  "bundler": "metro",
-  "output": "static"
-}
-    }
-  }
-}
