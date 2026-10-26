@@ -16,8 +16,10 @@
     "android": {
       "package": "com.find.app"
     },
-    "web": {
-      "bundler": "metro"
+  "web": {
+  "bundler": "metro",
+  "output": "static"
+}
     }
   }
 }
